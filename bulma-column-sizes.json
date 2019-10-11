@@ -1,0 +1,42 @@
+[
+    {
+        "value": "is-three-quarters",
+        "name": "3/4"
+    },
+    {
+        "value": "is-two-thirds",
+        "name": "2/3"
+    },
+    {
+        "value": "is-half",
+        "name": "1/2"
+    },
+    {
+        "value": "is-one-third",
+        "name": "1/3"
+    },
+    {
+        "value": "is-one-quarter",
+        "name": "1/4"
+    },
+    {
+        "value": "is-full",
+        "name": "1"
+    },
+    {
+        "value": "is-four-fifths",
+        "name": "4/5"
+    },
+    {
+        "value": "is-three-fifths",
+        "name": "3/5"
+    },
+    {
+        "value": "is-two-fifths",
+        "name": "2/5"
+    },
+    {
+        "value": "is-one-fifths",
+        "name": "1/5"
+    },
+]
