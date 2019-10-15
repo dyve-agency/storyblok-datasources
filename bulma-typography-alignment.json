@@ -1,0 +1,18 @@
+[
+    {
+        "value": "has-text-centered",
+        "name": "Centered"
+    },
+    {
+        "value": "has-text-left",
+        "name": "Left"
+    },
+    {
+        "value": "has-text-right",
+        "name": "Right"
+    },
+    {
+        "value": "has-text-justified",
+        "name": "Justified"
+    }
+]
