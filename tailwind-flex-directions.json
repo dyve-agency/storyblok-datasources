@@ -1,0 +1,18 @@
+[
+  {
+    "value": "flex-row",
+    "name": "Row"
+  },
+  {
+    "value": "flex-row-reverse",
+    "name": "Row reverse"
+  },
+  {
+    "value": "flex-col",
+    "name": "Column"
+  },
+  {
+    "value": "flex-col-reverse",
+    "name": "Column reverse"
+  }
+]
