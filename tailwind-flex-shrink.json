@@ -1,0 +1,10 @@
+[
+  {
+    "value": "flex-shrink-0",
+    "name": "Don't shrink"
+  },
+  {
+    "value": "flex-shrink",
+    "name": "Shrink"
+  }
+]

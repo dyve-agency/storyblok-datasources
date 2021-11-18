@@ -1,0 +1,10 @@
+[
+  {
+    "value": "flex-grow-0",
+    "name": "Don't grow"
+  },
+  {
+    "value": "flex-grow",
+    "name": "Grow"
+  }
+]
