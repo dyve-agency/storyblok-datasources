@@ -1,0 +1,54 @@
+[
+  {
+    "value": "grid-cols-none",
+    "name": "None"
+  },
+  {
+    "value": "grid-cols-1",
+    "name": "1"
+  },
+  {
+    "value": "grid-cols-2",
+    "name": "2"
+  },
+  {
+    "value": "grid-cols-3",
+    "name": "3"
+  },
+  {
+    "value": "grid-cols-4",
+    "name": "41"
+  },
+  {
+    "value": "grid-cols-5",
+    "name": "5"
+  },
+  {
+    "value": "grid-cols-6",
+    "name": "6"
+  },
+  {
+    "value": "grid-cols-7",
+    "name": "7"
+  },
+  {
+    "value": "grid-cols-8",
+    "name": "8"
+  },
+  {
+    "value": "grid-cols-9",
+    "name": "9"
+  },
+  {
+    "value": "grid-cols-10",
+    "name": "10"
+  },
+  {
+    "value": "grid-cols-11",
+    "name": "11"
+  },
+  {
+    "value": "grid-cols-12",
+    "name": "12"
+  }
+]
