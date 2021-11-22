@@ -1,0 +1,54 @@
+[
+  {
+    "value": "col-span-1",
+    "name": "1"
+  },
+  {
+    "value": "col-span-2",
+    "name": "2"
+  },
+  {
+    "value": "col-span-3",
+    "name": "3"
+  },
+  {
+    "value": "col-span-4",
+    "name": "4"
+  },
+  {
+    "value": "col-span-5",
+    "name": "5"
+  },
+  {
+    "value": "col-span-6",
+    "name": "6"
+  },
+  {
+    "value": "col-span-7",
+    "name": "7"
+  },
+  {
+    "value": "col-span-8",
+    "name": "8"
+  },
+  {
+    "value": "col-span-9",
+    "name": "9"
+  },
+  {
+    "value": "col-span-10",
+    "name": "10"
+  },
+  {
+    "value": "col-span-11",
+    "name": "11"
+  },
+  {
+    "value": "col-span-12",
+    "name": "12"
+  },
+  {
+    "value": "col-span-full",
+    "name": "Full"
+  }
+]
