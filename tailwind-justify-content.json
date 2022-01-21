@@ -1,0 +1,26 @@
+[
+  {
+    "value": "justify-start",
+    "name": "Against the start"
+  },
+  {
+    "value": "justify-end",
+    "name": "Against the end"
+  },
+  {
+    "value": "justify-center",
+    "name": "Along the center"
+  },
+  {
+    "value": "justify-between",
+    "name": "Such that there is an equal amount of space between each item"
+  },
+  {
+    "value": "justify-around",
+    "name": "Such that there is an equal amount of space on each side of each item"
+  },
+  {
+    "value": "justify-evenly",
+    "name": "Such that there is an equal amount of space around each item, but also accounting for the doubling of space"
+  }
+]

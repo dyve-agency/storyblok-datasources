@@ -1,0 +1,22 @@
+[
+  {
+    "value": "items-start",
+    "name": "To the start"
+  },
+  {
+    "value": "items-end",
+    "name": "To the end"
+  },
+  {
+    "value": "items-center",
+    "name": "Along the center"
+  },
+  {
+    "value": "items-baseline",
+    "name": "Such that all of their baselines align"
+  },
+  {
+    "value": "items-stretch",
+    "name": "Strech items"
+  }
+]
