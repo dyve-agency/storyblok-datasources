@@ -1,0 +1,22 @@
+[
+  {
+    "value": "justify-self-auto",
+    "name": "Based on the value of the grid’s justify-items property"
+  },
+  {
+    "value": "justify-self-start",
+    "name": "To the start"
+  },
+  {
+    "value": "justify-self-end",
+    "name": "To the end"
+  },
+  {
+    "value": "justify-self-center",
+    "name": "To the center"
+  },
+  {
+    "value": "justify-self-stretch",
+    "name": "Strech to fill the grid area on its inline axis"
+  }
+]

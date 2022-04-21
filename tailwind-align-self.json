@@ -1,0 +1,22 @@
+[
+  {
+    "value": "self-auto",
+    "name": "Based on the value of the container’s align-items property"
+  },
+  {
+    "value": "self-start",
+    "name": "To the start"
+  },
+  {
+    "value": "self-end",
+    "name": "To the end"
+  },
+  {
+    "value": "self-center",
+    "name": "To the center"
+  },
+  {
+    "value": "self-stretch",
+    "name": "Strech to fill the containers cross axis"
+  }
+]
