@@ -1,0 +1,54 @@
+[
+  {
+    "value": "col-start-1",
+    "name": "1"
+  },
+  {
+    "value": "col-start-2",
+    "name": "2"
+  },
+  {
+    "value": "col-start-3",
+    "name": "3"
+  },
+  {
+    "value": "col-start-4",
+    "name": "4"
+  },
+  {
+    "value": "col-start-5",
+    "name": "5"
+  },
+  {
+    "value": "col-start-6",
+    "name": "6"
+  },
+  {
+    "value": "col-start-7",
+    "name": "7"
+  },
+  {
+    "value": "col-start-8",
+    "name": "8"
+  },
+  {
+    "value": "col-start-9",
+    "name": "9"
+  },
+  {
+    "value": "col-start-10",
+    "name": "10"
+  },
+  {
+    "value": "col-start-11",
+    "name": "11"
+  },
+  {
+    "value": "col-start-12",
+    "name": "12"
+  },
+  {
+    "value": "col-start-auto",
+    "name": "Auto"
+  }
+]
